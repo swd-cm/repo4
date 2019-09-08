@@ -6,7 +6,6 @@ package com.swd;
  */
 public class cm {
     public static void main(String[] args) {
-        System.out.println("swd123456");
-        System.out.println("ssss");
+        System.out.println("swd9999");
     }
 }
